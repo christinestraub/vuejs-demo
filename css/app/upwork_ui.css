@@ -1,0 +1,10 @@
+/* http://stackoverflow.com/questions/9952320/highlighting-the-clicked-row-of-a-striped-html-table */
+
+.table-striped tbody tr.selected td {
+    background-color: #9932CC;
+}
+
+.table-striped tbody tr.selected th {
+    background-color: #9932CC;
+}
+
